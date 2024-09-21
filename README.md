@@ -1,14 +1,22 @@
-Description: Using HTML, CSS, and JavaScript, the Interactive Web Calculator is an easy-to-use web application. This project showcases a simple, responsive design that makes basic arithmetic operations a breeze to complete.
+This project is a simple image gallery built with HTML, CSS, and JavaScript. It allows users to view images in a lightbox and provides a hover effect for each image.
 
-Important characteristics:
+Features:
+Dynamic Image Loading: Images are dynamically added to the gallery using JavaScript, making it easy to add or update images.
+Lightbox View: A lightbox effect allows users to view a single image in a larger size within the same window.
+Image Hover Effect: Images slightly zoom in when the mouse hovers over them, providing visual feedback.
+Responsive Design: The gallery and lightbox should adapt to different screen sizes.
+How to Use:
+Download the Code: Download the project files (index.html, style.css, and script.js).
+Create an images Folder: Create a folder named "images" in the same directory as your HTML file.
+Add Images: Place your image files (e.g., image1.jpg, image2.jpg) inside the "images" folder.
+Update Image Paths: In the images array in script.js, replace the placeholder image URLs with the actual paths to your images (e.g., src: 'images/image1.jpg').
+Open index.html in Your Browser: The image gallery will load and display your images.
+Technologies:
+HTML: Structure of the gallery
+CSS: Styling for the gallery, lightbox, and image effects
+JavaScript: Dynamic image loading and lightbox functionality Screenshot (26)
 
-Basic Operators (+, -, *, /), Essential Functions (C for clear, = for equals), and Digits (0–9) are represented by a grid of buttons on the calculator's simple user interface.
 
-Responsive Design: The calculator is responsive, meaning it works well on desktop and mobile devices, thanks to its CSS styling.
-
-Real-time Calculations: The primary functionality is handled by JavaScript, which enables real-time calculations while users work with the calculator. Results and user inputs are promptly updated on the display.
-
-Basic error handling to handle invalid actions is included in error handling.
 ![Screenshot 2024-09-15 161509](https://github.com/user-attachments/assets/bc8914ab-cb8c-48d6-80b1-0da6aa4c6ff0)
 ![Screenshot 2024-09-15 161455](https://github.com/user-attachments/assets/d54e94c3-e36e-4117-b2c1-74a9e6c69783)
 
